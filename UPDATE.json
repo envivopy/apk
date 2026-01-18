@@ -1,5 +1,8 @@
 {
+  "enabled": true,
   "versionCode": 3,
   "versionName": "1.3",
+  "force": false,
+  "message": "Nueva versión disponible",
   "apkUrl": "https://github.com/envivopy/apk/releases/download/SERIES_Y_PELICULAS/TV_PLUS_2.apk"
 }
